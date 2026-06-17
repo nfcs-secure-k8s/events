@@ -1,0 +1,70 @@
+site_name: NFCS Secure Kubernetes
+site_description: Workshops and events for the NFCS Secure Kubernetes project
+site_url: https://nfcs-secure-k8s.github.io/events/
+
+repo_name: nfcs-secure-k8s/events
+repo_url: https://github.com/nfcs-secure-k8s/events
+
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Workshops:
+      - All workshops: workshops.md
+      - Secure Kubernetes Workshop: workshops/secure-kubernetes-workshop.md
+  - Agenda: agenda.md
+  # - Speakers: speakers.md
+  - Venue: venue.md
+  # - Resources: resources.md
+  # - FAQ: faq.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: Copyright &copy; 2026 NFCS Secure Kubernetes Block Storage
