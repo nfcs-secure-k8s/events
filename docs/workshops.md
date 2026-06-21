@@ -7,7 +7,7 @@ NFCS Secure Kubernetes project.
 
 | Date and time             | Subject                            | Event or location       | In person | Online | Details                                            |
 | ------------------------- | ---------------------------------- | ----------------------- | :-------: | :----: | -------------------------------------------------- |
-| 20 July 2026, 10:00–16:00 | Secure Kubernetes Storage Workshop | University of Cambridge |     ✓     |   ✓    | [Details](workshops/secure-kubernetes-workshop.md) |
+| 20 July 2026, 11:00–16:00 | Secure Kubernetes Storage Workshop | University of Cambridge |     ✓     |   ✓    | [Details](workshops/secure-kubernetes-workshop.md) |
 
 ## Past events
 

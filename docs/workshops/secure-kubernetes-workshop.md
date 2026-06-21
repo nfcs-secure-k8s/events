@@ -1,8 +1,8 @@
 # Secure Kubernetes Storage Workshop
 
 **Date:** 20 July 2026  
-**Time:** 10:00–16:00  
-**Location:** To be confirmed  
+**Time:** 11:00–16:00  
+**Location:** University of Cambridge - WestHub (room D)  
 **Format:** In person with online participation
 
 ## Overview
@@ -41,15 +41,11 @@ Participants will learn how to:
 
 [Register for the workshop](https://example.com){ .md-button .md-button--primary }
 
-!!! note
+<!-- ## Programme
 
-    Replace the registration link when the final registration form is available.
+See the [workshop agenda](../agenda.md). -->
 
-## Programme
-
-See the [workshop agenda](../agenda.md).
-
-## Resources
+<!-- ## Resources
 
 Workshop materials will be published on the
-[resources page](../resources.md).
+[resources page](../resources.md). -->
