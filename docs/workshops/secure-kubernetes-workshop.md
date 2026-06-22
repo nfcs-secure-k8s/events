@@ -39,7 +39,7 @@ Participants will learn how to:
 
 ## Registration
 
-[Register for the workshop](https://example.com){ .md-button .md-button--primary }
+[Register for the workshop](https://docs.google.com/forms/d/e/1FAIpQLSdoy3Ul-nTb3LiXhzpH71Gi-izWTbIBeEVXq6T3tzo65ZlwYA/viewform){ .md-button .md-button--primary }
 
 <!-- ## Programme
 
