@@ -37,6 +37,10 @@ Participants will learn how to:
 6. use OIDC claims for federated access control;
 7. plan key rotation and deletion workflows.
 
+## Related workshop
+
+The next day (21st July) at the same location in Cambridge, there is the [NFCS AI Container Registry Workshop 4](https://nfcs-networkplus-ai-containers.github.io/workshop4-website-github.io/index.html).
+
 ## Registration
 
 [Register for the workshop](https://docs.google.com/forms/d/e/1FAIpQLSdoy3Ul-nTb3LiXhzpH71Gi-izWTbIBeEVXq6T3tzo65ZlwYA/viewform){ .md-button .md-button--primary }
