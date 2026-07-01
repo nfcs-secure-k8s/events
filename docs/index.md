@@ -18,9 +18,9 @@ LUKS encryption, federated identity and trusted research environments.
 
 ## Upcoming event
 
-| Date         | Event                      | Location        | Format               | Details                                                  |
-| ------------ | -------------------------- | --------------- | -------------------- | -------------------------------------------------------- |
-| 20 July 2026 | Secure Kubernetes Workshop | To be confirmed | In person and online | [View workshop](workshops/secure-kubernetes-workshop.md) |
+| Date         | Event                      | Location                                   | Format               | Details                                                  |
+| ------------ | -------------------------- | ------------------------------------------ | -------------------- | -------------------------------------------------------- |
+| 20 July 2026 | Secure Kubernetes Workshop | University of Cambridge - WestHub (room D) | In person and online | [View workshop](workshops/secure-kubernetes-workshop.md) |
 
 <!-- <h2>Workshop themes</h2>
 
